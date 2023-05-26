@@ -35,6 +35,7 @@
   * Python
   * JavaScript
   * TypeScript
+  * Ruby
  
 ## 📈 Github Stats
 
