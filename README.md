@@ -1,12 +1,15 @@
 ## 👋 Hello!
 <!-- Add a quick bio about you, use emojis to emphatize concepts -->
 
-#### I am Kanstantsin, 
+# I am Kanstantsin, 
 
-## I am ready to impact the product and give the business and community more value. 
-## Open for opportunities on these platforms: iOS, MacOS, Esp32, Backent(Vapor).
+* I am ready to impact the product and give the business and community more value. 
+* Open for opportunities on these platforms: iOS, MacOS, Esp32, Backend(Vapor).
 
-## the Senior Mobile Developer at 🔴 [Intent](https://withintent.com).
+## [CV](CV.md)
+
+## Positions
+* the Senior Mobile Developer at 🔴 [Intent](https://withintent.com).
 
 <!-- List your skills, link them to their repository so it's easy to browse them -->
 ### 🔬 I usually develop for 
