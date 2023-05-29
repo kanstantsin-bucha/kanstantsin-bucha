@@ -6,7 +6,7 @@
 * I am ready to impact the product and give the business and community more value. 
 * Open for opportunities on these platforms: iOS, MacOS, Esp32, Backend(Vapor).
 
-## [CV](CV.md)
+## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) [Expertise](Kanstantsin%20Bucha%20-%20Expertise.pdf)
 
 ## Positions
 * the Senior Mobile Developer at 🔴 [Intent](https://withintent.com).
