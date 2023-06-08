@@ -4,7 +4,7 @@
 # I am Kanstantsin, 
 
 * I am ready to impact the product and give the business and community more value. 
-* Open for opportunities on these platforms: iOS, MacOS, Esp32, Backend(Vapor).
+* Open for opportunities on these platforms: Apple, Espressif, Vapor.
 
 ## [My home page](https://www.kanstantsin-bucha.com)
 
