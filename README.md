@@ -11,7 +11,7 @@
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) [Expertise](Kanstantsin%20Bucha%20-%20Expertise.pdf)
 
 ## Positions
-* the Senior Mobile Developer at 🔴 [Intent](https://withintent.com), Poland. (January 2023 - present)
+* the Senior Apple Developer at 🔴 [Intent](https://withintent.com), Poland. (January 2023 - present)
 * the Lead iOS Software Developer and Group Manager at Coherent Solutions, Poland (September 2020 - December 2022)
 * the Senior iOS Software Developer at RakutenViber, Bealrus (September 2018 – September 2020)
 * the Senior iOS Software Developer at Qroma LLC, USA from Belarus (October 2015 – December 2018)
