@@ -21,7 +21,7 @@
 
 <!-- List your skills, link them to their repository so it's easy to browse them -->
 ### 🔬 I usually develop for 
-* iOS, MacOS, WatchOS
+* iOS, MacOS, WatchOS, and VisionOS
   * SwiftUI, UIKit 
 * ESP32 
   * PlatformIO + Arduino 
