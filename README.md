@@ -1,14 +1,13 @@
 ## 👋 Hello!
 <!-- Add a quick bio about you, use emojis to emphatize concepts -->
 
-# I am Kanstantsin, 
+# I am Kanstantsin Bucha, 
 
 ## [My home page](https://www.kanstantsin-bucha.com)
 
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) [Expertise](Kanstantsin%20Bucha%20-%20Expertise.pdf)
 
-* I am ready to impact the product and give the business and community more value. 
-* Open for opportunities on these platforms: Apple, Espressif, Vapor.
+* Open for opportunities on mobile platforms.
 
 ### 🔬 My Developer Toolkit 
 * Flutter + Dart (Mobile)
