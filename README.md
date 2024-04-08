@@ -34,7 +34,7 @@
   * C
   * C++
   * Python
--/ Not a big fan, but have some projects written in /- 
+  * ↓ Not a big fan, but have some projects written in ↓ *
   * JavaScript
   * TypeScript
   * Ruby
