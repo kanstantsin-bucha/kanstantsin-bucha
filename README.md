@@ -10,19 +10,11 @@
 * I am ready to impact the product and give the business and community more value. 
 * Open for opportunities on these platforms: Apple, Espressif, Vapor.
 
-### 🔬 I usually develop for 
-* iOS, MacOS, WatchOS, and VisionOS
-  * SwiftUI, UIKit 
-* ESP32 
-  * PlatformIO + Arduino 
-* Android
-  * Jetpack Compose
-* Backend
-  * Express
-  * Vapor
-* Frontend
-  * React 
-  * Electron
+### 🔬 My Developer Toolkit 
+* Flutter + Dart (Mobile)
+* SwiftUI + Swift (Mobile, VisionPro, Desktop, Watch)
+* Arduino + C/C++ (PlatformIO)
+* Vapor + Swift (Backend)
 
 ### Positions
 * the Senior Apple Developer at 🔴 [Intent](https://withintent.com), Poland. (January 2023 - present)
@@ -35,12 +27,14 @@
 
 
 ### Programming Languages
-  * [Swift](https://github.com/kanstantsin-bucha?tab=repositories&q=&type=&language=swift)
-  * [Kotlin](https://github.com/kanstantsin-bucha?tab=repositories&q=&type=&language=kotlin)
-  * [Objective-C](https://github.com/kanstantsin-bucha?tab=repositories&q=&type=&language=objective-c)
+  * [Dart](https://dart.dev/)
+  * [Swift](https://www.swift.org/)
+  * Kotlin
+  * Objective-C
   * C
   * C++
   * Python
+-/ Not a big fan, but have some projects written in /- 
   * JavaScript
   * TypeScript
   * Ruby
@@ -49,4 +43,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanstantsin-bucha&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanstantsin-bucha&count_private=true&hide=c)](https://github.com/matteocrippa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanstantsin-bucha&count_private=true&hide=c)](https://github.com/kanstantsin-bucha)
