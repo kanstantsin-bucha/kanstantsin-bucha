@@ -3,19 +3,18 @@
 
 # I am Kanstantsin Bucha, 
 
-
-
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) [Expertise](Kanstantsin%20Bucha%20-%20Expertise.pdf)
 
-* Open for opportunities on mobile platforms.
+----
 
-## [My Music Albums]
+## My Music Albums
 * [Neon Night, 2024](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
 * [No License Plate, 2024](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
 
-## [My YouTube Channel]
+## My YouTube Channel
 * [MotivationBehind](http://https://www.youtube.com/@motivation-behind)
 
+----
 
 ### 🔬 My Developer Toolkit 
 * Flutter + Dart (Mobile)
