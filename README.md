@@ -3,16 +3,24 @@
 
 # I am Kanstantsin Bucha, 
 
-## [My home page](https://www.kanstantsin-bucha.com)
+
 
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) [Expertise](Kanstantsin%20Bucha%20-%20Expertise.pdf)
 
 * Open for opportunities on mobile platforms.
 
+## [My Music Albums]
+* [Neon Night, 2024](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
+* [No License Plate, 2024](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
+
+## [My YouTube Channel]
+* [MotivationBehind](http://https://www.youtube.com/@motivation-behind)
+
+
 ### 🔬 My Developer Toolkit 
 * Flutter + Dart (Mobile)
-* SwiftUI + Swift (Mobile, VisionPro, Desktop, Watch)
-* Arduino + C/C++ (PlatformIO)
+* SwiftUI + Swift (Mobile, VisionPro, Watch)
+* Arduino + C/C++ (PlatformIO, Arduino)
 * Vapor + Swift (Backend)
 
 ### Positions
@@ -33,7 +41,7 @@
   * C
   * C++
   * Python
-  * ↓ Not a big fan, but have some projects written in ↓ *
+  * ↓ Not a big fan, but have some code written in ↓ *
   * JavaScript
   * TypeScript
   * Ruby
