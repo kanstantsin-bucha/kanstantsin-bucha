@@ -12,7 +12,7 @@
 * **Green Light** [iMusic](https://music.apple.com/pl/album/green-light-single/1745678837) [Spotify](https://open.spotify.com/album/5cxOgBoqLfVByNEyCcm0aR?si=mHBd5KeyTPCrk4iG_ByZSw)
 * **Neon Night** [iMusic](https://music.apple.com/pl/album/neon-night-single/1744955200) [Spotify](https://open.spotify.com/album/7yqpG7sPLA2TaT4dNn2ALQ?si=DBruaMK0QiGjM3KQwa0YHQ) [other](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
 * **Summer Nights** [Spotify](https://open.spotify.com/album/2iI6Gqheexd0zvutFkaAQb?si=OH3DzUcxSzyZjCcFBN6e8w)
-* **No License Plate** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018) [Spotify](https://open.spotify.com/album/0OR8LxpqCLYz6vORF6clTT?si=n0OJS-ncRKus4zeHpMqJaA) [other](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
+* **No License Plate** [iMusic](https://music.apple.com/pl/album/no-licence-plate-single/1730465431) [Spotify](https://open.spotify.com/album/0OR8LxpqCLYz6vORF6clTT?si=n0OJS-ncRKus4zeHpMqJaA) [other](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
 
 ## My YouTube Channel
 * [MotivationBehind](http://https://www.youtube.com/@motivation-behind)
