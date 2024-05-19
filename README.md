@@ -7,9 +7,12 @@
 
 ----
 
-## My Music Albums
-* [Neon Night, 2024](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
-* [No License Plate, 2024](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
+## My Music Albums (descending by date)
+* **Fenix Fire** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018)[Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
+* **Green Light** [iMusic](https://music.apple.com/pl/album/green-light-single/1745678837) [Spotify](https://open.spotify.com/album/5cxOgBoqLfVByNEyCcm0aR?si=mHBd5KeyTPCrk4iG_ByZSw)
+* **Neon Night** [all](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
+* **Summer Nights** [Spotify](https://open.spotify.com/album/2iI6Gqheexd0zvutFkaAQb?si=OH3DzUcxSzyZjCcFBN6e8w)
+* **No License Plate** [all](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
 
 ## My YouTube Channel
 * [MotivationBehind](http://https://www.youtube.com/@motivation-behind)
