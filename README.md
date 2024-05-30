@@ -8,6 +8,7 @@
 ----
 
 ## My Music Albums (newest on top)
+* **American Might** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018) [Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
 * **Friday Night** [iMusic](https://music.apple.com/pl/album/friday-night-ep/1747308497) [Spotify](https://open.spotify.com/album/2MX1hoHZzdP9o5czs4agDb?si=n21RZ67dRyCVZ1AeorKfRg)
 * **Fenix Fire** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018) [Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
 * **Green Light** [iMusic](https://music.apple.com/pl/album/green-light-single/1745678837) [Spotify](https://open.spotify.com/album/5cxOgBoqLfVByNEyCcm0aR?si=mHBd5KeyTPCrk4iG_ByZSw)
