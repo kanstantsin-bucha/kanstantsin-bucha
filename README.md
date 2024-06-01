@@ -8,6 +8,7 @@
 ----
 
 ## My Music Albums (newest on top)
+* **Open Road** [iMusic](https://music.apple.com/pl/album/open-road-single/1747509329) [Spotify](https://open.spotify.com/album/7JZG52kyTbZxvyGW13yms7?si=79icUbkDRtaJuBJp1FstLw)
 * **American Might** [iMusic](https://music.apple.com/pl/album/american-might-single/1747298722) [Spotify](https://open.spotify.com/album/4H2idJmcGklyWqv28SOT0O?si=HlhNwEtrTpOtMWanItfk5A)
 * **Friday Night** [iMusic](https://music.apple.com/pl/album/friday-night-ep/1747308497) [Spotify](https://open.spotify.com/album/2MX1hoHZzdP9o5czs4agDb?si=n21RZ67dRyCVZ1AeorKfRg)
 * **Fenix Fire** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018) [Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
