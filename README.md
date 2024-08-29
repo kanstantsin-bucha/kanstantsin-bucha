@@ -3,6 +3,8 @@
 
 # I am Kanstantsin Bucha, 
 
+I have 13 years of experience in mobile development and over 6 years in designing integrations. My expertise includes developing mobile applications, designing architecture, leading teams, and managing the development cycles of connected devices (IoT, PxD). I also specialize in creating robust API solutions using existing protocols and developing new protocols for clients with more sophisticated needs, as well as integrating these systems with existing infrastructure.
+
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) 
 
 ## Expertise 
