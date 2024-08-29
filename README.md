@@ -14,9 +14,9 @@ I have 13 years of experience in mobile development and over 6 years in designin
 * Communication with IOT, BLE devices based on ESP32 and modern Espressif SOCs. Both Firmware and Mobile coding.
 * Single source code Applications for iOS + Android using Flutter
 * Integration with Firebase. Firestore, Analytics, Craslytics
-* Media playing on iOS using AVFoundation, including correct output switching, AirPlay, correct interruption handling, playing streams in the background, etc. I worked 6 month for UMG group under NDA.
+* Media playing on iOS using AVFoundation, including correct output switching, AirPlay, correct interruption handling, playing streams in the background, etc. I worked 6 month for [UMG](https://www.universalmusic.com/) group under NDA.
 * Messager App, support different messages types in UI, scrolling optimizations, local database optimisation and fast queries. I worked in [Viber](https://www.viber.com/en/) for 2 years.
-* Security protocols, access control mobile applicaitons. I worked in TruU [https://truu.ai/] for 2 years.
+* Security protocols, access control mobile applicaitons. I worked in [TruU](https://truu.ai/) for 2 years.
 * Location services, beacons, local/animated maps navigation.
 * Flight assistance applications.
 * Midical/Health Care devices applications.
