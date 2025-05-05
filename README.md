@@ -74,15 +74,13 @@ My expertise is:
 ### Programming Languages
   * [Dart](https://dart.dev/)
   * [Swift](https://www.swift.org/)
+  * Python
   * Kotlin
   * Objective-C
-  * C
-  * C++
-  * Python
-  * ↓ Not a big fan, but have some code written in ↓ *
+  * C/C++
+  * ↓ Not a big fan, but have 3-4 month of production in ↓ *
   * JavaScript
   * TypeScript
-  * Ruby
  
 ## 📈 Github Stats
 
