@@ -10,7 +10,7 @@ My expertise is:
 - designing system architecture,
 - leading teams,
 - managing the development cycles of products,
-- developing new protocols in security field
+- developing new protocols in security field,
 - integrating new systems with existing infrastructure.
 
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) 
