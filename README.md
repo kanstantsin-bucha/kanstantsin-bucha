@@ -13,6 +13,13 @@ My expertise is:
 - developing new protocols in security field,
 - integrating new systems with existing infrastructure.
 
+### 🔬 My Developer Toolkit 
+* SwiftUI + ComposableArchitecture + Swift (Mobile, VisionPro, Watch)
+* Flutter + Dart (Mobile)
+* Python + ADK from Google (LLms, Agents)
+* Arduino + C/C++ (PlatformIO, Arduino)
+* Vapor + Swift (Backend)
+
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) 
 
 ## Empirical Knowledge in
@@ -52,11 +59,7 @@ My expertise is:
 
 ----
 
-### 🔬 My Developer Toolkit 
-* Flutter + Dart (Mobile)
-* SwiftUI + Swift (Mobile, VisionPro, Watch)
-* Arduino + C/C++ (PlatformIO, Arduino)
-* Vapor + Swift (Backend)
+
 
 ### Positions
 * the Senior Apple Developer at 🔴 [Intent](https://withintent.com), Poland. (January 2023 - present)
