@@ -13,7 +13,7 @@ My expertise is:
 - developing new protocols in security field,
 - integrating new systems with existing infrastructure.
 
-### 🔬 My Developer Toolkit 
+### 🔬 My Developement Toolkit 
 * SwiftUI + ComposableArchitecture + Swift (Mobile, VisionPro, Watch)
 * Flutter + Dart (Mobile)
 * Python + ADK from Google (LLms, Agents)
