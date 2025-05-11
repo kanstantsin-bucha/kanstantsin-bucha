@@ -3,6 +3,12 @@
 
 # I am Kanstantsin Bucha, 
 
+🚀 iOS Developer | Crafting Seamless Apps in Swift & SwiftUI | Flutter | Ble | Innovating Mobile Experiences 📱
+
+Good apps crafted by passionate people.
+My passion is innovations. I like connecting existing mobile infrastructure with embedde devices, gadgets, and AI agents.
+Having deep understanding of resources, processes and risks I can handle development process in the most efficient way.
+
 My expertise is:
 - over 14 years of experience in mobile development,
 - over 6 years in designing integrations,
