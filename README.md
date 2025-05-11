@@ -12,21 +12,20 @@ My passion is innovations. I like connecting existing mobile infrastructure with
 Having deep understanding of resources, processes and risks I can handle development process in the most efficient way.
 
 My expertise is:
-- over 14 years of experience in mobile development,
-- over 6 years in designing integrations,
-- developing mobile applications,
-- designing system architecture,
-- leading teams,
-- managing the development cycles of products,
-- developing new protocols in security field,
-- integrating new systems with existing infrastructure.
+- over 14 years of creating solutions in mobile development,
+- gathering requirements, crafting easy to implement solutions 
+- integrating mobile products with existing infrastructure,
+- leading teams to growth
+- developing mobile applications from sctrach, 
+- designing system, app architecture, selecting 3rd party libraries
+- lead development cycles, working with tight deadlines, managing expectations
+- managing risks, applying best security practices
 
 ### 🔬 My Developement Toolkit 
 * SwiftUI + ComposableArchitecture + Swift (Mobile, VisionPro, Watch)
 * Flutter + Dart (Mobile)
 * Python + ADK from Google (LLms, Agents)
-* Arduino + C/C++ (PlatformIO, Arduino)
-* Vapor + Swift (Backend)
+* ESP-IDF/Zephyr + C/C++ (IOT, PxD)
 
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) 
 
@@ -80,15 +79,12 @@ My expertise is:
 
 
 ### Programming Languages
-  * [Dart](https://dart.dev/)
   * [Swift](https://www.swift.org/)
+  * [Dart](https://dart.dev/)
   * Python
-  * Kotlin
   * Objective-C
   * C/C++
-  * ↓ Not a big fan, but have 3-4 month of production in ↓ *
-  * JavaScript
-  * TypeScript
+  * Kotlin
  
 ## 📈 Github Stats
 
