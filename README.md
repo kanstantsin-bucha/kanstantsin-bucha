@@ -3,29 +3,34 @@
 
 # I am Kanstantsin Bucha, 
 
-🚀 iOS Developer | Crafting Seamless Apps in Swift & SwiftUI | Flutter | Ble | Innovating Mobile Experiences 📱
+🚀 mostly known as Mobile Apps Developer | SwiftUI | Flutter | Ble | IOT | PxD
 
-Good apps crafted by passionate people.
+Good apps crafted by people who know how to do it.
 
-My passion is innovations. I like connecting existing mobile infrastructure with embedde devices, gadgets, and AI agents.
+I created multiple apps for connected devices experience with BLE devices and more generalized apps that worked with IOT device networks.
 
-Having deep understanding of resources, processes and risks I can handle development process in the most efficient way.
+With my friend we created fully functiononal AirSensor device including hiring team of hardware engeneers and went through
+* the whole software + hardware research and development cycle.
+* producing device boards
+* crafting and building custom cases
+* selecting the manufacturer
+* producing 1st serie of devices.
 
 My expertise is:
-- over 14 years of creating solutions in mobile development,
+- over 15 years of creating solutions in mobile development,
 - gathering requirements, crafting easy to implement solutions 
 - integrating mobile products with existing infrastructure,
 - leading teams to growth
 - developing mobile applications from sctrach, 
 - designing system, app architecture, selecting 3rd party libraries
-- lead development cycles, working with tight deadlines, managing expectations
+- lead development cycles, managing customer expectations
 - managing risks, applying best security practices
 
 ### 🔬 My Developement Toolkit 
 * SwiftUI + ComposableArchitecture + Swift (Mobile, VisionPro, Watch)
 * Flutter + Dart (Mobile)
-* Python + ADK from Google (LLms, Agents)
-* ESP-IDF/Zephyr + C/C++ (IOT, PxD)
+* Python
+* some of ESP-IDF/Zephyr + C/C++ (IOT, PxD)
 
 ## [CV](Kanstatsin%20Bucha%20-%20CV.pdf) 
 
