@@ -58,16 +58,16 @@ My expertise is:
 
 ## My Music Albums (newest on top)
 
-* **Breaking A Badge** [iMusic](https://music.apple.com/pl/album/breaking-a-badge/1751567885) [Spotify](https://open.spotify.com/album/2LghS1Dysp97ANC3PXW3JT?si=QhjmTkiRQtWbAMDFZmIrFw)
-* **Speed Call** [iMusic](https://music.apple.com/pl/album/speed-call-ep/1749582774) [Spotify](https://open.spotify.com/album/0rnGL36NdVbRIBwoNX0iVk?si=VL5ImK9wQ1uq7hpPDy_vFQ)
-* **Open Road** [iMusic](https://music.apple.com/pl/album/open-road-single/1747509329) [Spotify](https://open.spotify.com/album/7JZG52kyTbZxvyGW13yms7?si=79icUbkDRtaJuBJp1FstLw)
-* **American Might** [iMusic](https://music.apple.com/pl/album/american-might-single/1747298722) [Spotify](https://open.spotify.com/album/4H2idJmcGklyWqv28SOT0O?si=HlhNwEtrTpOtMWanItfk5A)
-* **Friday Night** [iMusic](https://music.apple.com/pl/album/friday-night-ep/1747308497) [Spotify](https://open.spotify.com/album/2MX1hoHZzdP9o5czs4agDb?si=n21RZ67dRyCVZ1AeorKfRg)
-* **Fenix Fire** [iMusic](https://music.apple.com/pl/album/fenix-fire-ep/1746078018) [Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
-* **Green Light** [iMusic](https://music.apple.com/pl/album/green-light-single/1745678837) [Spotify](https://open.spotify.com/album/5cxOgBoqLfVByNEyCcm0aR?si=mHBd5KeyTPCrk4iG_ByZSw)
-* **Neon Night** [iMusic](https://music.apple.com/pl/album/neon-night-single/1744955200) [Spotify](https://open.spotify.com/album/7yqpG7sPLA2TaT4dNn2ALQ?si=DBruaMK0QiGjM3KQwa0YHQ) [other](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
+* **Breaking A Badge**  [Spotify](https://open.spotify.com/album/2LghS1Dysp97ANC3PXW3JT?si=QhjmTkiRQtWbAMDFZmIrFw)
+* **Speed Call**  [Spotify](https://open.spotify.com/album/0rnGL36NdVbRIBwoNX0iVk?si=VL5ImK9wQ1uq7hpPDy_vFQ)
+* **Open Road**  [Spotify](https://open.spotify.com/album/7JZG52kyTbZxvyGW13yms7?si=79icUbkDRtaJuBJp1FstLw)
+* **American Might**  [Spotify](https://open.spotify.com/album/4H2idJmcGklyWqv28SOT0O?si=HlhNwEtrTpOtMWanItfk5A)
+* **Friday Night**  [Spotify](https://open.spotify.com/album/2MX1hoHZzdP9o5czs4agDb?si=n21RZ67dRyCVZ1AeorKfRg)
+* **Fenix Fire**  [Spotify](https://open.spotify.com/album/7gGZCkUvmgB50wHvzPFmE4?si=8-Jd6CxHRyWXwYROz6gF9Q)
+* **Green Light**  [Spotify](https://open.spotify.com/album/5cxOgBoqLfVByNEyCcm0aR?si=mHBd5KeyTPCrk4iG_ByZSw)
+* **Neon Night**  [Spotify](https://open.spotify.com/album/7yqpG7sPLA2TaT4dNn2ALQ?si=DBruaMK0QiGjM3KQwa0YHQ) [other](https://social.tunecore.com/linkShare?linkid=8Lug-6SR5R3QeyUADrRZqw)
 * **Summer Nights** [Spotify](https://open.spotify.com/album/2iI6Gqheexd0zvutFkaAQb?si=OH3DzUcxSzyZjCcFBN6e8w)
-* **No License Plate** [iMusic](https://music.apple.com/pl/album/no-licence-plate-single/1730465431) [Spotify](https://open.spotify.com/album/0OR8LxpqCLYz6vORF6clTT?si=n0OJS-ncRKus4zeHpMqJaA) [other](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
+* **No License Plate**  [Spotify](https://open.spotify.com/album/0OR8LxpqCLYz6vORF6clTT?si=n0OJS-ncRKus4zeHpMqJaA) [other](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
 
 
 
