@@ -53,6 +53,9 @@ My expertise is:
 
 ----
 
+## My YouTube Channel
+* [Adventurer](https://www.youtube.com/channel/UCbkw5yfxqF6WzM3omEFjSZA)
+
 ## My Music Albums (newest on top)
 
 * **Breaking A Badge** [iMusic](https://music.apple.com/pl/album/breaking-a-badge/1751567885) [Spotify](https://open.spotify.com/album/2LghS1Dysp97ANC3PXW3JT?si=QhjmTkiRQtWbAMDFZmIrFw)
@@ -66,8 +69,7 @@ My expertise is:
 * **Summer Nights** [Spotify](https://open.spotify.com/album/2iI6Gqheexd0zvutFkaAQb?si=OH3DzUcxSzyZjCcFBN6e8w)
 * **No License Plate** [iMusic](https://music.apple.com/pl/album/no-licence-plate-single/1730465431) [Spotify](https://open.spotify.com/album/0OR8LxpqCLYz6vORF6clTT?si=n0OJS-ncRKus4zeHpMqJaA) [other](https://social.tunecore.com/linkShare?linkid=Wxu7WeFdasLAv_rTOuyjBw)
 
-## My YouTube Channel
-* [MotivationBehind](http://https://www.youtube.com/@motivation-behind)
+
 
 ----
 
