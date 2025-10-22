@@ -7,7 +7,7 @@
 
 Good apps crafted by people who know how to do it.
 
-I created multiple apps for connected devices experience with BLE devices and more generalized apps that worked with IOT device networks.
+I created multiple apps for "connected devices experience" with BLE devices and more generalized apps that worked with IOT device networks.
 
 With my friend we created fully functiononal AirSensor device including hiring team of hardware engeneers and went through
 * the whole software + hardware research and development cycle.
